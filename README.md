@@ -4,3 +4,5 @@
 * npm run dev      
   
 # Demo Link : https://html-code-splitter-s6t3.onrender.com/
+
+# Fast Loading Demo Link :
